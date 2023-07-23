@@ -28,3 +28,7 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# pocketbase stuff, just like to have it in same dir
+pocketbase
+pb_data/
